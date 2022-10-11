@@ -142,8 +142,8 @@
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
-    <deploymentStatus>Deployed</deploymentStatus>
-    <description>test label added updated</description>
+    <deploymentStatus>InDevelopment</deploymentStatus>
+    <description>First time label added</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -154,12 +154,12 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Demo</label>
+    <label>First name</label>
     <nameField>
-        <label>Demo Name</label>
+        <label>First name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Insurance</pluralLabel>
+    <pluralLabel>First_Name</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
